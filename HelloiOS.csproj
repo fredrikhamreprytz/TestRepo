@@ -106,6 +106,7 @@
     </Compile>
     <Compile Include="PhoneTranslator.cs" />
     <Compile Include="NewClass.cs" />
+    <Compile Include="Test.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
